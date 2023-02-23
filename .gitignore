@@ -8,3 +8,5 @@
 _*
 load_sa.py
 
+*.iml
+*.xml
