@@ -1,6 +1,8 @@
 /.env
 /__pycache__
 /.vscode
+/.vs
+/env
 /log/*
 /forecast_results/*
 /dataset/*
@@ -10,3 +12,4 @@ load_sa.py
 
 *.iml
 *.xml
+*.vsidx
